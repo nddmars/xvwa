@@ -25,4 +25,7 @@
     <a href="/xvwa/vulnerabilities/crypto/" class="list-group-item">Cryptography</a>
     <a href="/xvwa/vulnerabilities/redirect/" class="list-group-item">Redirects & Forwards</a>
     <a href="/xvwa/vulnerabilities/ssti/" class="list-group-item">Server Side Template Injection</a>
+	    <a href="/xvwa/vulnerabilities/path_traversal/getContents.php?file=./getContents.php" class="list-group-item">Path Traversal-View This Page Source Code</a>
+	    <a href="/xvwa/vulnerabilities/path_traversal/getContentsCookie.php?file=./getContents.php" class="list-group-item">Path Traversal-View This Page Source Code via Cookie</a>
+
 </div>
